@@ -15,6 +15,8 @@
 <h3 align="center"><img width="700" style="border-radius:5px;" alt="demo" src="drawdb.gif"></h3>
 
 ## drawDB
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTongxin-Sun%2Fdrawdb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTongxin-Sun%2Fdrawdb?ref=badge_shield)
+
 
 DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account. See the full set of features [here](https://drawdb.app/).
 
@@ -46,3 +48,7 @@ docker run -p 3000:80 drawdb
 ```
 
 Set up the [server](https://github.com/drawdb-io/drawdb-server) and environment variables according to `.env.sample` for the survey and bug report forms.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTongxin-Sun%2Fdrawdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTongxin-Sun%2Fdrawdb?ref=badge_large)
